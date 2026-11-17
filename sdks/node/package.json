@@ -50,11 +50,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/replit/datacat.git",
+    "url": "git+https://github.com/Akshayab/datacat.git",
     "directory": "sdks/node"
   },
-  "homepage": "https://github.com/replit/datacat#readme",
+  "homepage": "https://github.com/Akshayab/datacat#readme",
   "bugs": {
-    "url": "https://github.com/replit/datacat/issues"
+    "url": "https://github.com/Akshayab/datacat/issues"
   }
 }

@@ -16,7 +16,7 @@ queryable, and median query latency over 3 runs.
 ## 1. Start DataCat locally
 
 ```sh
-git clone https://github.com/replit/datacat && cd datacat
+git clone https://github.com/Akshayab/datacat && cd datacat
 cp .env.example .env
 # set POSTGRES_PASSWORD and SESSION_SECRET in .env (any long random strings)
 docker compose up -d --build                                   # Postgres storage (default)

@@ -22,7 +22,7 @@ No hosted account or external service is required.
 Requirements: Docker Engine with the Compose plugin, Git, and OpenSSL.
 
 ```sh
-git clone https://github.com/replit/datacat
+git clone https://github.com/Akshayab/datacat
 cd datacat
 cp .env.example .env
 sed -i "s/^POSTGRES_PASSWORD=.*/POSTGRES_PASSWORD=$(openssl rand -hex 24)/" .env
